@@ -1,0 +1,41 @@
+#container
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#main{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid lightgreen;
+    width: 800px;
+    height: auto;
+    padding: 20px;
+    border-radius: 5px;
+    align-items: center;
+    background-color: gray;
+}
+.header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.header >h4{
+    margin: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+}
+
+input{
+    padding: 10px;
+    margin: 0px 10px;
+}
+select{
+    padding: 10px;
+}
+
+span{
+    display: block;
+    text-align: center;
+    margin-top: 40px;
+}
