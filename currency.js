@@ -10,5 +10,5 @@ class Currency{
     const exchangedResult = amount*result.data[secondCurrency];
 
     return exchangedResult;
-    }
+    }.
 }
