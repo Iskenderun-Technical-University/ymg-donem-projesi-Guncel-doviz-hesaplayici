@@ -5,7 +5,7 @@ const firstOption = document.querySelector("#firstCurrencyOption");
 const secondOption = document.querySelector("#secondCurrencyOption");
 const resultInput = document.querySelector("#result"); 
 
-const currency = new Currency(); //nesne üretildi
+const currency = new Currency(); //nesne uretildi
 
 runEventListeners();
 
