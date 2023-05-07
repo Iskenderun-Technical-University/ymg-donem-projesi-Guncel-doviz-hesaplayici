@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2023-05-03T23:23:45.660Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="SwlEQdYgAQ-edaTt4JLa" version="21.2.7" type="device">
+  <diagram name="Sayfa -1" id="EYvibyO8-2yX01xmSuAL">
+    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RKQPoSsS9HU0o287MF30-1" value="Kullanıcı" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rhombus;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=CnJUeZUNTocY;" vertex="1" parent="1">
+          <mxGeometry x="165" y="165" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RKQPoSsS9HU0o287MF30-2" value="" style="shape=singleArrow;arrowWidth=0.5;arrowSize=0.225;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="195" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RKQPoSsS9HU0o287MF30-3" value="A" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=hexagon;perimeter=hexagonPerimeter2;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=SnJUf.dOPZrf;" vertex="1" parent="1">
+          <mxGeometry x="450" y="173" width="120" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="RKQPoSsS9HU0o287MF30-4" value="" style="shape=singleArrow;arrowWidth=0.5;arrowSize=0.225;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="195" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RKQPoSsS9HU0o287MF30-5" value="çevirilcek döviz türü seçilir" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=hexagon;perimeter=hexagonPerimeter2;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=uoJU5037Rmc~;" vertex="1" parent="1">
+          <mxGeometry x="720" y="173" width="120" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="RKQPoSsS9HU0o287MF30-6" value="" style="shape=singleArrow;arrowWidth=0.5;arrowSize=0.225;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="195" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RKQPoSsS9HU0o287MF30-7" value="API den kur bilgisi çekilir" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.basic.pentagon;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=kpJUggD_wqze;" vertex="1" parent="1">
+          <mxGeometry x="975" y="173" width="120" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="RKQPoSsS9HU0o287MF30-8" value="" style="shape=singleArrow;arrowWidth=0.5;arrowSize=0.225;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;rotation=90;strokeWidth=0.8;html=1;" vertex="1" parent="1">
+          <mxGeometry x="975" y="345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RKQPoSsS9HU0o287MF30-9" value="kur bilgisi ile istenilen miktar işleme koyulur" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=hexagon;perimeter=hexagonPerimeter2;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=4pJU4pjJSN3i;" vertex="1" parent="1">
+          <mxGeometry x="975" y="465" width="120" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="RKQPoSsS9HU0o287MF30-10" value="" style="shape=singleArrow;arrowWidth=0.5;arrowSize=0.225;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;rotation=180;strokeWidth=0.8;html=1;" vertex="1" parent="1">
+          <mxGeometry x="825" y="487" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RKQPoSsS9HU0o287MF30-11" value="sonuç verilir" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=hexagon;perimeter=hexagonPerimeter2;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=GqJU544spWpu;" vertex="1" parent="1">
+          <mxGeometry x="675" y="465" width="120" height="104" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
