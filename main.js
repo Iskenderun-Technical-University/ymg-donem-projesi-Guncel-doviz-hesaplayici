@@ -24,7 +24,7 @@ function exchange(){
 
   currency.exchange(amount,firstOptionValue,secondOptionValue)
   .then((result) => {
-    resultInput.value = result.toFixed(3)//noktadan sonra sadece 3 karakter görünecek
+    resultInput.value = result.toFixed(3)//noktadan sonra sadece 3 karakter görünür
   })
 
 }
