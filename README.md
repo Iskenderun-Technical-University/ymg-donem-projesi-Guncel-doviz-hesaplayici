@@ -3,4 +3,4 @@
 readme.txt ile zaten belirmiştim aslında tarihlere bakabilirsiniz ekstradan readme.md dosyasına da yazayım dedim.
 HTML-CSS-JS kullanarak yapılmıştır
 
-projemiz guncel kuru takip edebilecek yani nezaman istersek o zamanın kur bilgilerini apı üzerinden alabilir. döviz çevirme işlemlerini yapacagız
+projemiz guncel kuru takip edebilecek yani nezaman istersek o zamanın kur bilgilerini apı üzerinden alabilir. döviz çevirme işlemlerini yapacagız.
